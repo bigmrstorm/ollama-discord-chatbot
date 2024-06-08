@@ -3,6 +3,9 @@ This straightforward Python script enables you to create your own Discord chat b
 
 This Python Discord bot integrates with Ollama to provide conversational capabilities. Below are instructions on how to set it up and use it.
 
+(NOTE)
+To run the bot, you can also simply open the ollama_disc.py file using [Visual Studio Code](https://code.visualstudio.com/) simply click on the 'Run Python file' button
+
 Setup Instructions
 1. Clone the Repository:
 
