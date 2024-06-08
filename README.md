@@ -9,7 +9,7 @@ To run the bot, you can also simply open the ollama_disc.py file using [Visual S
 Setup Instructions
 1. Clone the Repository:
 
-git clone https://github.com/bigmrstorm/ollama-discord-chatbot.git
+`git clone https://github.com/bigmrstorm/ollama-discord-chatbot.git`
 cd ollama-discord-chatbot
 
 2. Install Dependencies:
