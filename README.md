@@ -10,7 +10,6 @@ Setup Instructions
 1. Clone the Repository:
 
 `git clone https://github.com/bigmrstorm/ollama-discord-chatbot.git`
-cd ollama-discord-chatbot
 
 2. Install Dependencies:
 Ensure you have Python installed. Install the required libraries using:
